@@ -7,10 +7,10 @@ A very simple php script to output a filelist of a folder as json. The name, mod
 Use
 ---
 
-Simply add files to the data folder in the and then call the index.php file.
+Simply add files to the 'data' sub-folder and then request the index.php file.
 
 
 Credit
 ------
 
-Inspired by an old project called sketchBox whose author I cannot find again, outs to you tho...
+Inspired by an old project called sketchBox whose author I cannot find again :{, outs to you tho...
